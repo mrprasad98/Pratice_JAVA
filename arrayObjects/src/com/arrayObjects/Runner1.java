@@ -9,7 +9,7 @@ public class Runner1 {
 		
 		System.out.println(p[0]);
 		System.out.println(p[1]);
-		
+		System.out.println(p[2]);
 
 	}
 
