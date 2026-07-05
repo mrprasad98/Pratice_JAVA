@@ -8,6 +8,7 @@ public class Runner1 {
 		p[0] = new Person("RAJENDRA", 10);
 		
 		System.out.println(p[0]);
+		System.out.println(p[1]);
 		
 
 	}
