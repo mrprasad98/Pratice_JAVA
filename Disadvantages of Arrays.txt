@@ -1,0 +1,5 @@
+1. Fixed in Size
+2. Homogeneous data
+3. Rembering of next index is difficult
+4. No utility methods (Sorting & Searching)
+5. Insertion and Deletion of elements in the array is very difficult
